@@ -3,12 +3,13 @@
     <h1>Expense Tracker Project</h1>
 </p>
 <p>
-    A powerful expense tracker built with React. Check out the <a href="">[Demo]</a>
+    A powerful expense tracker built with React. Check out the <a href="https://expense-tracker-react-drab.vercel.app/">[Demo]</a>
 </p>
 <p><img src="images/Screenshot 2024-01-19 190614.png" alt="logo" width="20%" height="auto" /></p>
 
 - [Features](#features)
-- [Getting Started](#getting-started) -[installation](#installation)
+- [Getting Started](#getting-started)
+    -[installation](#installation)
 - [Usage](#usage)
 
 - [Events](#events)
